@@ -1,0 +1,17 @@
+{
+    "name": "neuton-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Brian Zick"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/neuton-bower.git"
+    },
+    "description": "Neuton font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
